@@ -1,0 +1,6 @@
+H:\IFN660\Java-Prac\Java-Prac\bin\Debug\Java-Prac.exe.config
+H:\IFN660\Java-Prac\Java-Prac\bin\Debug\Java-Prac.exe
+H:\IFN660\Java-Prac\Java-Prac\bin\Debug\Java-Prac.pdb
+H:\IFN660\Java-Prac\Java-Prac\obj\Debug\Java-Prac.csproj.CoreCompileInputs.cache
+H:\IFN660\Java-Prac\Java-Prac\obj\Debug\Java-Prac.exe
+H:\IFN660\Java-Prac\Java-Prac\obj\Debug\Java-Prac.pdb
